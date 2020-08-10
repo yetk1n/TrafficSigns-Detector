@@ -1,0 +1,10 @@
+ClassId,Name
+0,Go Ahead Only
+1,Turn Left
+2,Turn Right
+3,Stop
+4,Speed Limit 50 km/h
+5,Speed Limit 120 km/h
+6,General caution
+7,Pedestrians
+8,Children crossing
